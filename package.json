@@ -1,0 +1,22 @@
+{
+  "name": "react_project_sw",
+  "version": "1.0.0",
+  "description": "My first react project",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/anasitchinava/react_project_SW.git"
+  },
+  "author": "Anna Stch",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/anasitchinava/react_project_SW/issues"
+  },
+  "homepage": "https://github.com/anasitchinava/react_project_SW#readme",
+  "dependencies": {
+    "validator": "^13.11.0"
+  }
+}
