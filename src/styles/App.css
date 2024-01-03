@@ -1,0 +1,33 @@
+body {
+  margin: 0;
+  padding: 0;
+  background-color: silver;
+}
+
+.Center {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  height: 100vh;
+}
+
+ul {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+  text-align: center;
+}
+
+li {
+  margin: 10px 0;
+}
+
+.App-logo {
+  height: 20vmin;
+}
+
+.Main-text {
+  text-align: justify;
+  padding: 20px;
+}
